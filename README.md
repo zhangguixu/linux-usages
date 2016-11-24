@@ -6,6 +6,8 @@
 2. [网易云音乐](cloud.md)
 3. [截图](shutter.md)
 4. [Terminal配置](terminal.md)
+5. [qq](qq.md)
+6. [字体设置](font.md)
 
 ## 开发环境
 

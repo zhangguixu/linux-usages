@@ -15,6 +15,6 @@
 {
     "editor.fontSize": 19,
     "editor.wrappingColumn": 0,
-    "editor.fontFamily": "'ubuntu mono'"
+    "editor.fontFamily": "'ubuntu mono', 'Microsoft Yahei'"
 }
 ```
