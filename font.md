@@ -2,7 +2,7 @@
 
 我们知道ubuntu下没有微软雅黑，这会导致网页浏览很奇怪，可以使用以下步骤来为ubuntu安装微软雅黑字体。
 
-首先在window下的c://window/Fonts 中找出`msyh.ttc`，将其拷贝出来
+首先在window下的c://window/Fonts 中找出`msyh.ttc`和`msya.ttf`(最好是将所有关于msyh的)，将其拷贝出来
 
 切换到ubuntu下，我们可以在/usr/share/fonts下创建一个文件夹，用于放置这个字体文件
 
