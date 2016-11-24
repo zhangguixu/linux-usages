@@ -29,3 +29,17 @@
 下载之后点击安装既可，之后就可以看到搜狗输入法
 
 ![sougou.png](./images/sougou.png)
+
+## 3. 安装googlepinyin
+
+搜狗输入法有时候会有点问题，个人还是喜欢googlepinyin
+
+安装了fcitx之后，再安装googlepinyin
+
+```shell
+sudo apt-get install fcitx-googlepinyin
+```
+
+之后可以在有上方的输入法中点击配置，新添我们安装的谷歌输入法
+
+![googlepinyin.png](./images/googlepinyin.png)
