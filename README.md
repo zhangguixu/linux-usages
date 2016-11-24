@@ -5,6 +5,7 @@
 1. [英文系统输入法](input.md)
 2. [网易云音乐](cloud.md)
 3. [截图](shutter.md)
+4. [Terminal配置](terminal.md)
 
 ## 开发环境
 
