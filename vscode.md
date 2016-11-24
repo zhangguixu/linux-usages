@@ -13,7 +13,8 @@
 
 ```javascript
 {
-    "editor.fontSize": 16,
-    "editor.wrappingColumn": 0
+    "editor.fontSize": 19,
+    "editor.wrappingColumn": 0,
+    "editor.fontFamily": "'ubuntu mono'"
 }
 ```
