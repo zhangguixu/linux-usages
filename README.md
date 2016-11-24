@@ -8,6 +8,7 @@
 4. [Terminal配置](terminal.md)
 5. [qq](qq.md)
 6. [字体设置](font.md)
+7. [安装flash](flash.md)
 
 ## 开发环境
 
