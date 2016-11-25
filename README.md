@@ -22,3 +22,4 @@
 ## 办公软件
 
 1. [vscode](vscode.md)
+2. [画图软件](draw.md)
