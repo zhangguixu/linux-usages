@@ -9,6 +9,7 @@
 5. [qq](qq.md)
 6. [字体设置](font.md)
 7. [安装flash](flash.md)
+8. [翻译软件](translate.md)
 
 ## 开发环境
 
