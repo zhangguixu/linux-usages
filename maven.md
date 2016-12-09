@@ -25,3 +25,18 @@ gedit ~/.bashrc
 export M2_HOME=/home/zhang/software/maven
 export PATH=$M2_HOME/bin:$PATH
 ```
+
+## 添加maven国内镜像
+
+在maven的根目录下的conf文件夹下的`setting.xml`文件
+
+```xml
+<mirrors>
+    <mirror>
+      <id>alimaven</id>
+      <name>aliyun maven</name>
+      <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
+      <mirrorOf>central</mirrorOf>        
+    </mirror>
+  </mirrors>
+```

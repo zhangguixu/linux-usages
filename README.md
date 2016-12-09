@@ -20,6 +20,7 @@
 4. [jena & fuseki](jena.md)
 5. [git](git.md)
 6. [Protégé](protege.md)
+7. [hexo](hexo.md)
 
 ## 办公软件
 

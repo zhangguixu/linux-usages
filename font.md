@@ -8,7 +8,7 @@
 
 ```shell
 cd /usr/share/fonts
-sudo mkdire winfonts
+sudo mkdir winfonts
 ```
 
 之后将该字体文件拷贝到winfonts中，改变字体文件的访问权限，在winfonts文件夹下执行
